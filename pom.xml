@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.app</groupId>
-    <artifactId>timeApp</artifactId>
+    <artifactId>timeapp</artifactId>
     <version>1.0.0</version>
 
     <properties>
