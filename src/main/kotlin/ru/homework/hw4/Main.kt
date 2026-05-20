@@ -8,3 +8,5 @@ fun main() {
     val formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss")
     println("Текущее время: ${now.format(formatter)}")
 }
+
+//docker run --rm stbran/timeapp:latest
